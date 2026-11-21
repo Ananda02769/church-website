@@ -1,0 +1,1107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Jesus Way To Life Church | Find Hope. Discover Jesus. Experience Life.</title>
+
+  <meta
+    name="description"
+    content="Welcome to Jesus Way To Life Church — a place where faith grows, love is shared, and lives are transformed through Jesus Christ."
+  >
+  <meta name="theme-color" content="#0b1f3a">
+
+  <meta property="og:title" content="Jesus Way To Life Church">
+  <meta
+    property="og:description"
+    content="Find hope, discover Jesus, and experience life through worship, prayer, fellowship, and God's Word."
+  >
+  <meta property="og:type" content="website">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://images.unsplash.com">
+
+  <link
+    rel="preload"
+    as="image"
+    href="https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1800&q=80"
+  >
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  >
+
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+  >
+
+  <link rel="stylesheet" href="style.css">
+
+  <script>
+    document.documentElement.classList.add("js");
+  </script>
+</head>
+
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
+  <header class="site-header" data-header>
+    <nav class="navbar" aria-label="Primary navigation">
+      <a class="logo" href="#home" aria-label="Jesus Way To Life Church home">
+        <span class="logo-mark" aria-hidden="true">
+          <svg viewBox="0 0 48 48" role="img">
+            <circle cx="24" cy="24" r="22"></circle>
+            <path d="M24 10v28M15 20h18"></path>
+          </svg>
+        </span>
+
+        <span class="logo-text">
+          <strong>Jesus Way</strong>
+          <small>To Life Church</small>
+        </span>
+      </a>
+
+      <button
+        class="nav-toggle"
+        type="button"
+        aria-controls="primary-menu"
+        aria-expanded="false"
+        aria-label="Open navigation menu"
+      >
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <ul class="nav-menu" id="primary-menu">
+        <li><a class="nav-link active" href="#home" data-section="home">Home</a></li>
+        <li><a class="nav-link" href="#about" data-section="about">About Us</a></li>
+        <li><a class="nav-link" href="#sermons" data-section="sermons">Sermons</a></li>
+        <li><a class="nav-link" href="#ministries" data-section="ministries">Ministries</a></li>
+        <li><a class="nav-link" href="#events" data-section="events">Events</a></li>
+        <li><a class="nav-link" href="#contact" data-section="contact">Contact</a></li>
+        <li class="mobile-join"><a class="btn btn-gold" href="#services">Join Us</a></li>
+      </ul>
+
+      <a class="btn btn-gold nav-cta" href="#services">Join Us</a>
+    </nav>
+
+    <div class="nav-backdrop" hidden></div>
+  </header>
+
+  <main id="main-content">
+    <!-- Hero -->
+    <section class="hero" id="home" aria-label="Church welcome banner">
+      <img
+        class="hero-image"
+        src="https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1800&q=80"
+        alt="A congregation worshipping together with hands raised"
+        width="1800"
+        height="1200"
+        fetchpriority="high"
+      >
+
+      <div class="hero-overlay" aria-hidden="true"></div>
+
+      <div class="container hero-content">
+        <p class="eyebrow reveal">Welcome home</p>
+
+        <h1 class="hero-title reveal">
+          Find <span>Hope.</span>
+          Discover <span>Jesus.</span>
+          Experience <span>Life.</span>
+        </h1>
+
+        <p class="hero-subtitle reveal">
+          Welcome to Jesus Way To Life Church — a place where faith grows,
+          love is shared, and lives are transformed through Jesus Christ.
+        </p>
+
+        <div class="hero-actions reveal">
+          <a class="btn btn-gold" href="#services">
+            Join Our Worship
+            <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
+          </a>
+
+          <a class="btn btn-light" href="#sermons">
+            <i class="fa-solid fa-play" aria-hidden="true"></i>
+            Watch Sermons
+          </a>
+        </div>
+
+        <div class="hero-verse reveal">
+          <i class="fa-solid fa-cross" aria-hidden="true"></i>
+          <p>“I am the way, the truth, and the life.”</p>
+          <cite>— John 14:6</cite>
+        </div>
+      </div>
+
+      <a class="scroll-cue" href="#welcome" aria-label="Scroll to the welcome section">
+        <span></span>
+      </a>
+    </section>
+
+    <!-- Welcome -->
+    <section class="section welcome-section" id="welcome">
+      <div class="container split-grid">
+        <div class="section-copy reveal">
+          <p class="eyebrow">A church family for everyone</p>
+          <h2>Welcome to Jesus Way To Life Church</h2>
+
+          <p class="lead">
+            We are a Christ-centered family devoted to worship, prayer, biblical
+            teaching, and meaningful community. Whether you are exploring faith
+            for the first time or looking for a church home, you are warmly
+            invited to join us.
+          </p>
+
+          <blockquote class="inline-verse">
+            <p>
+              “Jesus answered, ‘I am the way and the truth and the life.
+              No one comes to the Father except through me.’”
+            </p>
+            <cite>— John 14:6</cite>
+          </blockquote>
+
+          <ul class="welcome-highlights" aria-label="Church highlights">
+            <li>
+              <i class="fa-solid fa-check" aria-hidden="true"></i>
+              Spirit-filled worship services
+            </li>
+            <li>
+              <i class="fa-solid fa-check" aria-hidden="true"></i>
+              Practical teaching from God's Word
+            </li>
+            <li>
+              <i class="fa-solid fa-check" aria-hidden="true"></i>
+              A loving and welcoming church family
+            </li>
+          </ul>
+        </div>
+
+        <figure class="welcome-image reveal">
+          <img
+            src="https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1000&q=80"
+            srcset="
+              https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=700&q=80 700w,
+              https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1000&q=80 1000w
+            "
+            sizes="(max-width: 900px) 100vw, 50vw"
+            alt="An open Bible representing faith, prayer, and God's Word"
+            width="1000"
+            height="1200"
+            loading="lazy"
+            decoding="async"
+          >
+
+          <figcaption>
+            <strong>Faith that transforms</strong>
+            <span>Growing together in Christ</span>
+          </figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <!-- About -->
+    <section class="section section-soft" id="about">
+      <div class="container">
+        <div class="section-header reveal">
+          <p class="eyebrow">Who we are</p>
+          <h2>Our Vision, Mission, and Faith</h2>
+          <p>
+            We exist to help people know Jesus, grow in faith, and serve others
+            with the love of Christ.
+          </p>
+        </div>
+
+        <div class="about-grid">
+          <article class="info-card reveal">
+            <div class="card-icon">
+              <i class="fa-solid fa-heart" aria-hidden="true"></i>
+            </div>
+            <h3>Our Mission</h3>
+            <p>
+              To share the love of Jesus Christ, lead people to salvation,
+              and build a community rooted in faith, prayer, and God's Word.
+            </p>
+          </article>
+
+          <article class="info-card reveal">
+            <div class="card-icon">
+              <i class="fa-solid fa-eye" aria-hidden="true"></i>
+            </div>
+            <h3>Our Vision</h3>
+            <p>
+              To see lives transformed by Jesus Christ and communities filled
+              with hope, love, and faith.
+            </p>
+          </article>
+
+          <article class="info-card reveal">
+            <div class="card-icon">
+              <i class="fa-solid fa-cross" aria-hidden="true"></i>
+            </div>
+            <h3>Our Faith</h3>
+            <p>
+              We believe in Jesus Christ as Savior and Lord, the authority of
+              Scripture, the power of prayer, and the hope of eternal life.
+            </p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Services -->
+    <section class="section services-section" id="services">
+      <div class="container">
+        <div class="section-header reveal">
+          <p class="eyebrow">Gather with us</p>
+          <h2>Church Services</h2>
+          <p>
+            Join us for inspiring worship, deep biblical teaching, and powerful
+            times of prayer.
+          </p>
+        </div>
+
+        <!-- EDIT SERVICE TIMES AND LOCATIONS HERE -->
+        <div class="services-grid">
+          <article class="service-card reveal">
+            <div class="service-icon">
+              <i class="fa-solid fa-church" aria-hidden="true"></i>
+            </div>
+            <h3>Sunday Worship</h3>
+            <p>
+              Celebrate Jesus through heartfelt worship, prayer, communion,
+              and a life-giving message from God's Word.
+            </p>
+
+            <div class="service-schedule">
+              <div>
+                <span>Sundays</span>
+                <strong>9:00 AM & 11:30 AM</strong>
+              </div>
+              <div>
+                <span>Location</span>
+                <strong>Main Sanctuary</strong>
+              </div>
+            </div>
+          </article>
+
+          <article class="service-card reveal">
+            <div class="service-icon">
+              <i class="fa-solid fa-book-open" aria-hidden="true"></i>
+            </div>
+            <h3>Bible Study</h3>
+            <p>
+              Grow in understanding through guided study, meaningful discussion,
+              and practical application of Scripture.
+            </p>
+
+            <div class="service-schedule">
+              <div>
+                <span>Wednesdays</span>
+                <strong>7:00 PM</strong>
+              </div>
+              <div>
+                <span>Location</span>
+                <strong>Fellowship Hall</strong>
+              </div>
+            </div>
+          </article>
+
+          <article class="service-card reveal">
+            <div class="service-icon">
+              <i class="fa-solid fa-hands-praying" aria-hidden="true"></i>
+            </div>
+            <h3>Prayer Meetings</h3>
+            <p>
+              Seek God's presence together through intercession, thanksgiving,
+              healing prayer, and Spirit-led worship.
+            </p>
+
+            <div class="service-schedule">
+              <div>
+                <span>Fridays</span>
+                <strong>6:30 PM</strong>
+              </div>
+              <div>
+                <span>Location</span>
+                <strong>Prayer Chapel</strong>
+              </div>
+            </div>
+          </article>
+        </div>
+        <!-- END SERVICE SCHEDULE -->
+      </div>
+    </section>
+
+    <!-- Sermons -->
+    <section class="section section-dark sermons-section" id="sermons">
+      <div class="container">
+        <div class="section-header reveal">
+          <p class="eyebrow">Be encouraged</p>
+          <h2>Recent Sermons</h2>
+          <p>
+            Watch or listen to messages designed to strengthen your faith and
+            help you live boldly for Christ.
+          </p>
+        </div>
+
+        <div class="sermons-grid">
+          <article class="sermon-card reveal">
+            <a
+              class="sermon-media"
+              href="https://www.youtube.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Watch the sermon The Way, The Truth, The Life"
+            >
+              <img
+                src="https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=800&q=80"
+                alt="Worshippers praising God during a church service"
+                width="800"
+                height="500"
+                loading="lazy"
+                decoding="async"
+              >
+              <span class="play-button" aria-hidden="true">
+                <i class="fa-solid fa-play"></i>
+              </span>
+              <span class="duration">38 min</span>
+            </a>
+
+            <div class="sermon-content">
+              <div class="sermon-meta">
+                <span>Pastor David Mensah</span>
+                <span>Nov 16, 2026</span>
+              </div>
+              <h3>The Way, The Truth, The Life</h3>
+              <p>
+                Discover the hope and salvation found in Jesus Christ, the only
+                way to the Father.
+              </p>
+              <a
+                class="text-link"
+                href="https://www.youtube.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Watch Sermon
+                <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
+              </a>
+            </div>
+          </article>
+
+          <article class="sermon-card reveal">
+            <a
+              class="sermon-media"
+              href="https://www.youtube.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Watch the sermon Faith That Moves Mountains"
+            >
+              <img
+                src="https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=800&q=80"
+                alt="An open Bible resting on a wooden table"
+                width="800"
+                height="500"
+                loading="lazy"
+                decoding="async"
+              >
+              <span class="play-button" aria-hidden="true">
+                <i class="fa-solid fa-play"></i>
+              </span>
+              <span class="duration">42 min</span>
+            </a>
+
+            <div class="sermon-content">
+              <div class="sermon-meta">
+                <span>Pastor Sarah Johnson</span>
+                <span>Nov 9, 2026</span>
+              </div>
+              <h3>Faith That Moves Mountains</h3>
+              <p>
+                Learn how trusting God can transform impossible situations into
+                testimonies of His grace.
+              </p>
+              <a
+                class="text-link"
+                href="https://www.youtube.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Watch Sermon
+                <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
+              </a>
+            </div>
+          </article>
+
+          <article class="sermon-card reveal">
+            <a
+              class="sermon-media"
+              href="https://www.youtube.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Watch the sermon Anchored in God's Word"
+            >
+              <img
+                src="https://images.unsplash.com/photo-1438232992991-995b7058bbb3?auto=format&fit=crop&w=800&q=80"
+                alt="A peaceful church sanctuary prepared for worship"
+                width="800"
+                height="500"
+                loading="lazy"
+                decoding="async"
+              >
+              <span class="play-button" aria-hidden="true">
+                <i class="fa-solid fa-play"></i>
+              </span>
+              <span class="duration">35 min</span>
+            </a>
+
+            <div class="sermon-content">
+              <div class="sermon-meta">
+                <span>Rev. Michael Osei</span>
+                <span>Nov 2, 2026</span>
+              </div>
+              <h3>Anchored in God's Word</h3>
+              <p>
+                Build a firm foundation for your life through Scripture, prayer,
+                obedience, and faith.
+              </p>
+              <a
+                class="text-link"
+                href="https://www.youtube.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Watch Sermon
+                <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
+              </a>
+            </div>
+          </article>
+        </div>
+
+        <div class="center-button reveal">
+          <!-- Replace this URL with the church's YouTube channel -->
+          <a
+            class="btn btn-light"
+            href="https://www.youtube.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <i class="fa-brands fa-youtube" aria-hidden="true"></i>
+            Watch More Sermons
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Ministries -->
+    <section class="section section-soft ministries-section" id="ministries">
+      <div class="container">
+        <div class="section-header reveal">
+          <p class="eyebrow">Serve and grow</p>
+          <h2>Our Ministries</h2>
+          <p>
+            Find a place to connect, use your gifts, and make a difference in
+            the life of the church and the community.
+          </p>
+        </div>
+
+        <div class="ministries-grid">
+          <article class="ministry-card reveal">
+            <div class="ministry-icon">
+              <i class="fa-solid fa-hands-praying" aria-hidden="true"></i>
+            </div>
+            <h3>Prayer Ministry</h3>
+            <p>
+              Standing in faith for healing, restoration, families, and the
+              needs of our community.
+            </p>
+          </article>
+
+          <article class="ministry-card reveal">
+            <div class="ministry-icon">
+              <i class="fa-solid fa-bolt" aria-hidden="true"></i>
+            </div>
+            <h3>Youth Ministry</h3>
+            <p>
+              Helping young people build a genuine relationship with Jesus and
+              discover their God-given purpose.
+            </p>
+          </article>
+
+          <article class="ministry-card reveal">
+            <div class="ministry-icon">
+              <i class="fa-solid fa-music" aria-hidden="true"></i>
+            </div>
+            <h3>Worship Ministry</h3>
+            <p>
+              Leading the church into God's presence through Spirit-filled and
+              Christ-centered worship.
+            </p>
+          </article>
+
+          <article class="ministry-card reveal">
+            <div class="ministry-icon">
+              <i class="fa-solid fa-hand-holding-heart" aria-hidden="true"></i>
+            </div>
+            <h3>Outreach Ministry</h3>
+            <p>
+              Sharing the love of Christ through community service, evangelism,
+              compassion, and support.
+            </p>
+          </article>
+
+          <article class="ministry-card reveal">
+            <div class="ministry-icon">
+              <i class="fa-solid fa-book-bible" aria-hidden="true"></i>
+            </div>
+            <h3>Bible Study Ministry</h3>
+            <p>
+              Equipping believers with sound biblical knowledge and practical
+              teaching for everyday life.
+            </p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Events -->
+    <section class="section events-section" id="events">
+      <div class="container">
+        <div class="section-header reveal">
+          <p class="eyebrow">Mark your calendar</p>
+          <h2>Upcoming Events</h2>
+          <p>
+            Join us for special worship nights, fellowship gatherings, prayer
+            conferences, and community outreach.
+          </p>
+        </div>
+
+        <div class="events-grid">
+          <article class="event-card reveal">
+            <div class="event-image">
+              <img
+                src="https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=800&q=80"
+                alt="Hands raised during a special evening worship service"
+                width="800"
+                height="600"
+                loading="lazy"
+                decoding="async"
+              >
+              <div class="event-date">
+                <strong>29</strong>
+                <span>Nov</span>
+              </div>
+            </div>
+
+            <div class="event-content">
+              <p class="event-label">Worship Night</p>
+              <h3>Thanksgiving Worship Night</h3>
+              <p>
+                An evening of gratitude, praise, prayer, and testimonies as we
+                thank God for His faithfulness.
+              </p>
+              <a class="text-link" href="#contact">
+                Learn More
+                <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
+              </a>
+            </div>
+          </article>
+
+          <article class="event-card reveal">
+            <div class="event-image">
+              <img
+                src="https://images.unsplash.com/photo-1473177104440-ffee2f376098?auto=format&fit=crop&w=800&q=80"
+                alt="A peaceful church building illuminated at night"
+                width="800"
+                height="600"
+                loading="lazy"
+                decoding="async"
+              >
+              <div class="event-date">
+                <strong>24</strong>
+                <span>Dec</span>
+              </div>
+            </div>
+
+            <div class="event-content">
+              <p class="event-label">Special Service</p>
+              <h3>Christmas Candlelight Service</h3>
+              <p>
+                Celebrate the birth of Jesus through carols, communion, candle
+                lighting, and a message of hope.
+              </p>
+              <a class="text-link" href="#contact">
+                Learn More
+                <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
+              </a>
+            </div>
+          </article>
+
+          <article class="event-card reveal">
+            <div class="event-image">
+              <img
+                src="https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=800&q=80"
+                alt="Prayer hands resting on an open Bible"
+                width="800"
+                height="600"
+                loading="lazy"
+                decoding="async"
+              >
+              <div class="event-date">
+                <strong>01</strong>
+                <span>Jan</span>
+              </div>
+            </div>
+
+            <div class="event-content">
+              <p class="event-label">Prayer Conference</p>
+              <h3>New Year Prayer Conference</h3>
+              <p>
+                Begin the year seeking God's direction through worship,
+                intercession, and prophetic prayer.
+              </p>
+              <a class="text-link" href="#contact">
+                Learn More
+                <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
+              </a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Bible Verse -->
+    <section class="verse-section" aria-label="Inspirational Bible verse">
+      <div class="verse-background" aria-hidden="true"></div>
+
+      <div class="container verse-content reveal">
+        <i class="fa-solid fa-cross" aria-hidden="true"></i>
+
+        <blockquote>
+          <p>“For I am the way, the truth, and the life.”</p>
+          <cite>— John 14:6</cite>
+        </blockquote>
+      </div>
+    </section>
+
+    <!-- Gallery -->
+    <section class="section gallery-section" id="gallery">
+      <div class="container">
+        <div class="section-header reveal">
+          <p class="eyebrow">Life at our church</p>
+          <h2>Worship, Prayer, Fellowship, and Community</h2>
+          <p>
+            Explore moments of worship, teaching, prayer, and fellowship from
+            our church family.
+          </p>
+        </div>
+
+        <div class="gallery-grid" aria-label="Church photo gallery">
+          <button
+            class="gallery-item reveal"
+            type="button"
+            data-caption="A congregation worshipping with hearts lifted to God"
+            data-full="https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=1600&q=85"
+            aria-label="View enlarged image of congregational worship"
+          >
+            <img
+              src="https://images.unsplash.com/photo-1507692049790-de58290a4334?auto=format&fit=crop&w=900&q=80"
+              alt="A congregation worshipping with hearts lifted to God"
+              width="900"
+              height="700"
+              loading="lazy"
+              decoding="async"
+            >
+          </button>
+
+          <button
+            class="gallery-item reveal"
+            type="button"
+            data-caption="Prayer and reflection on God's Word"
+            data-full="https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1600&q=85"
+            aria-label="View enlarged image of prayer and Bible reflection"
+          >
+            <img
+              src="https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=800&q=80"
+              alt="Prayer and reflection on God's Word"
+              width="800"
+              height="700"
+              loading="lazy"
+              decoding="async"
+            >
+          </button>
+
+          <button
+            class="gallery-item reveal"
+            type="button"
+            data-caption="A peaceful sanctuary prepared for worship"
+            data-full="https://images.unsplash.com/photo-1438232992991-995b7058bbb3?auto=format&fit=crop&w=1600&q=85"
+            aria-label="View enlarged image of the church sanctuary"
+          >
+            <img
+              src="https://images.unsplash.com/photo-1438232992991-995b7058bbb3?auto=format&fit=crop&w=800&q=80"
+              alt="A peaceful sanctuary prepared for worship"
+              width="800"
+              height="700"
+              loading="lazy"
+              decoding="async"
+            >
+          </button>
+
+          <button
+            class="gallery-item reveal"
+            type="button"
+            data-caption="The beauty and history of Christian worship spaces"
+            data-full="https://images.unsplash.com/photo-1473177104440-ffee2f376098?auto=format&fit=crop&w=1600&q=85"
+            aria-label="View enlarged image of a Christian worship space"
+          >
+            <img
+              src="https://images.unsplash.com/photo-1473177104440-ffee2f376098?auto=format&fit=crop&w=800&q=80"
+              alt="The beauty and history of Christian worship spaces"
+              width="800"
+              height="700"
+              loading="lazy"
+              decoding="async"
+            >
+          </button>
+
+          <button
+            class="gallery-item reveal"
+            type="button"
+            data-caption="Young adults growing in faith and fellowship"
+            data-full="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1600&q=85"
+            aria-label="View enlarged image of church fellowship"
+          >
+            <img
+              src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=800&q=80"
+              alt="Young adults growing in faith and fellowship"
+              width="800"
+              height="700"
+              loading="lazy"
+              decoding="async"
+            >
+          </button>
+
+          <button
+            class="gallery-item reveal"
+            type="button"
+            data-caption="Hands raised in surrender and praise"
+            data-full="https://images.unsplash.com/photo-1548625149-fc4a29cf7092?auto=format&fit=crop&w=1600&q=85"
+            aria-label="View enlarged image of hands raised in praise"
+          >
+            <img
+              src="https://images.unsplash.com/photo-1548625149-fc4a29cf7092?auto=format&fit=crop&w=800&q=80"
+              alt="Hands raised in surrender and praise"
+              width="800"
+              height="700"
+              loading="lazy"
+              decoding="async"
+            >
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section class="section section-dark contact-section" id="contact">
+      <div class="container">
+        <div class="section-header reveal">
+          <p class="eyebrow">We would love to hear from you</p>
+          <h2>Contact Us</h2>
+          <p>
+            Send a message, request prayer, or visit us during one of our
+            weekly services.
+          </p>
+        </div>
+
+        <div class="contact-grid">
+          <div class="contact-form-card reveal">
+            <h3>Send Us a Message</h3>
+
+            <form class="contact-form" id="contact-form" novalidate>
+              <div class="form-group">
+                <label for="name">Name</label>
+                <input
+                  type="text"
+                  id="name"
+                  name="name"
+                  placeholder="Enter your full name"
+                  autocomplete="name"
+                  required
+                >
+              </div>
+
+              <div class="form-group">
+                <label for="email">Email</label>
+                <input
+                  type="email"
+                  id="email"
+                  name="email"
+                  placeholder="Enter your email address"
+                  autocomplete="email"
+                  required
+                >
+              </div>
+
+              <div class="form-group">
+                <label for="message">Message</label>
+                <textarea
+                  id="message"
+                  name="message"
+                  rows="6"
+                  placeholder="How can we serve or pray for you?"
+                  required
+                ></textarea>
+              </div>
+
+              <button class="btn btn-gold form-button" type="submit">
+                Send Message
+                <i class="fa-solid fa-paper-plane" aria-hidden="true"></i>
+              </button>
+
+              <p
+                class="form-status"
+                id="form-status"
+                role="status"
+                aria-live="polite"
+              ></p>
+            </form>
+          </div>
+
+          <div class="contact-details reveal">
+            <div class="contact-info-card">
+              <div class="contact-icon">
+                <i class="fa-solid fa-location-dot" aria-hidden="true"></i>
+              </div>
+              <div>
+                <h3>Church Address</h3>
+                <!-- Replace with the actual church address -->
+                <p>123 Faith Avenue<br>Your City, State 12345</p>
+              </div>
+            </div>
+
+            <div class="contact-info-card">
+              <div class="contact-icon">
+                <i class="fa-solid fa-phone" aria-hidden="true"></i>
+              </div>
+              <div>
+                <h3>Phone Number</h3>
+                <!-- Replace with the actual church phone number -->
+                <p>
+                  <a href="tel:+15551234567">+1 (555) 123-4567</a>
+                </p>
+              </div>
+            </div>
+
+            <div class="contact-info-card">
+              <div class="contact-icon">
+                <i class="fa-solid fa-envelope" aria-hidden="true"></i>
+              </div>
+              <div>
+                <h3>Email Address</h3>
+                <!-- Replace with the actual church email -->
+                <p>
+                  <a href="mailto:info@jesuswaytolife.org">
+                    info@jesuswaytolife.org
+                  </a>
+                </p>
+              </div>
+            </div>
+
+            <div class="contact-info-card">
+              <div class="contact-icon">
+                <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              </div>
+              <div>
+                <h3>Service Times</h3>
+                <p>
+                  Sunday Worship: 9:00 AM & 11:30 AM<br>
+                  Wednesday Bible Study: 7:00 PM
+                </p>
+              </div>
+            </div>
+
+            <div class="social-card">
+              <h3>Connect With Us</h3>
+
+              <!-- Replace these placeholder URLs with the church's profiles -->
+              <div class="social-links" aria-label="Social media links">
+                <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+                  <i class="fa-brands fa-facebook-f" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+                  <i class="fa-brands fa-instagram" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
+                  <i class="fa-brands fa-youtube" aria-hidden="true"></i>
+                </a>
+                <a href="https://x.com/" target="_blank" rel="noopener noreferrer" aria-label="X">
+                  <i class="fa-brands fa-x-twitter" aria-hidden="true"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="map-card reveal">
+          <!-- Replace the map query with the church's actual address -->
+          <iframe
+            title="Map showing the location of Jesus Way To Life Church"
+            src="https://www.google.com/maps?q=Jesus%20Way%20To%20Life%20Church&output=embed"
+            loading="lazy"
+            allowfullscreen
+            referrerpolicy="no-referrer-when-downgrade"
+          ></iframe>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div class="footer-brand">
+        <a class="logo footer-logo" href="#home" aria-label="Jesus Way To Life Church home">
+          <span class="logo-mark" aria-hidden="true">
+            <svg viewBox="0 0 48 48" role="img">
+              <circle cx="24" cy="24" r="22"></circle>
+              <path d="M24 10v28M15 20h18"></path>
+            </svg>
+          </span>
+
+          <span class="logo-text">
+            <strong>Jesus Way</strong>
+            <small>To Life Church</small>
+          </span>
+        </a>
+
+        <p>
+          A Christ-centered church family committed to worship, prayer,
+          biblical teaching, fellowship, and community outreach.
+        </p>
+
+        <blockquote class="footer-verse">
+          <p>“Trust in the Lord with all your heart.”</p>
+          <cite>— Proverbs 3:5</cite>
+        </blockquote>
+      </div>
+
+      <nav class="footer-links" aria-label="Footer navigation">
+        <h3>Quick Links</h3>
+        <a href="#home">Home</a>
+        <a href="#about">About Us</a>
+        <a href="#services">Services</a>
+        <a href="#sermons">Sermons</a>
+        <a href="#ministries">Ministries</a>
+        <a href="#events">Events</a>
+        <a href="#contact">Contact</a>
+      </nav>
+
+      <div class="footer-contact">
+        <h3>Contact Information</h3>
+
+        <address>
+          <p>
+            <i class="fa-solid fa-location-dot" aria-hidden="true"></i>
+            123 Faith Avenue, Your City, State 12345
+          </p>
+          <p>
+            <i class="fa-solid fa-phone" aria-hidden="true"></i>
+            <a href="tel:+15551234567">+1 (555) 123-4567</a>
+          </p>
+          <p>
+            <i class="fa-solid fa-envelope" aria-hidden="true"></i>
+            <a href="mailto:info@jesuswaytolife.org">info@jesuswaytolife.org</a>
+          </p>
+        </address>
+
+        <div class="footer-social social-links" aria-label="Footer social media links">
+          <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+            <i class="fa-brands fa-facebook-f" aria-hidden="true"></i>
+          </a>
+          <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+            <i class="fa-brands fa-instagram" aria-hidden="true"></i>
+          </a>
+          <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
+            <i class="fa-brands fa-youtube" aria-hidden="true"></i>
+          </a>
+          <a href="https://x.com/" target="_blank" rel="noopener noreferrer" aria-label="X">
+            <i class="fa-brands fa-x-twitter" aria-hidden="true"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <div class="container footer-bottom-inner">
+        <p>
+          &copy; <span id="current-year"></span> Jesus Way To Life Church.
+          All rights reserved.
+        </p>
+        <a href="#home">Back to Top</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Gallery Lightbox -->
+  <div
+    class="lightbox"
+    id="lightbox"
+    role="dialog"
+    aria-modal="true"
+    aria-labelledby="lightbox-caption"
+    hidden
+  >
+    <button
+      class="lightbox-button lightbox-close"
+      type="button"
+      aria-label="Close image preview"
+    >
+      <i class="fa-solid fa-xmark" aria-hidden="true"></i>
+    </button>
+
+    <button
+      class="lightbox-button lightbox-prev"
+      type="button"
+      aria-label="View previous image"
+    >
+      <i class="fa-solid fa-chevron-left" aria-hidden="true"></i>
+    </button>
+
+    <figure class="lightbox-content">
+      <img id="lightbox-image" src="" alt="">
+      <figcaption>
+        <p id="lightbox-caption"></p>
+        <span id="lightbox-counter"></span>
+      </figcaption>
+    </figure>
+
+    <button
+      class="lightbox-button lightbox-next"
+      type="button"
+      aria-label="View next image"
+    >
+      <i class="fa-solid fa-chevron-right" aria-hidden="true"></i>
+    </button>
+  </div>
+
+  <button
+    class="back-to-top"
+    id="back-to-top"
+    type="button"
+    aria-label="Back to top"
+    hidden
+  >
+    <i class="fa-solid fa-chevron-up" aria-hidden="true"></i>
+  </button>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
